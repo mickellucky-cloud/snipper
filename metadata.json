@@ -1,0 +1,6 @@
+{
+  "name": "Solana Sniper — Apple Fluid Trading Terminal",
+  "description": "High-frequency Solana token sniper dashboard engineered with Apple Human Interface Guidelines, fluid spring physics, translucent materials, and mobile-first SwiftUI ergonomics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
